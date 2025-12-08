@@ -206,7 +206,7 @@ flowchart LR
         A3[M365 Copilot]
     end
 
-    subgraph Security_and_Compliance"
+    subgraph Security_and_Compliance
         B1[UK Gov Standards]
         B2[NCSC Guidelines]
         B3[Governance]
