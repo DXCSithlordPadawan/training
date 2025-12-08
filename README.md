@@ -200,27 +200,27 @@ graph TD
 
 ```mermaid
 flowchart LR
-    subgraph [Technical Skills]
+    subgraph Technical Skills
         A1[Prompt Engineering]
         A2[Claude Code]
         A3[M365 Copilot]
     end
 
-    subgraph [Security and Compliance]
+    subgraph "Security and Compliance"
         B1[UK Gov Standards]
         B2[NCSC Guidelines]
         B3[Governance]
     end
 
-    subgraph [Implementation]
+    subgraph Implementation
         C1[Strategy Design]
         C2[Change Management]
         C3[ROI Measurement]
     end
 
-    [Technical Skills] --> [Security and Compliance]
-    [Security and Compliance] --> [Implementation]
-    [Implementation] --> D[Enterprise AI Mastery]
+    Technical Skills --> "Security and Compliance"
+    "Security and Compliance" --> Implementation
+    Implementation --> D[Enterprise AI Mastery]
 
     style D fill:#FFD700
 ```
