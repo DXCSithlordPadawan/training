@@ -206,7 +206,7 @@ flowchart LR
         A3[M365 Copilot]
     end
 
-    subgraph "Security and Compliance"
+    subgraph Security_and_Compliance"
         B1[UK Gov Standards]
         B2[NCSC Guidelines]
         B3[Governance]
@@ -218,8 +218,8 @@ flowchart LR
         C3[ROI Measurement]
     end
 
-    Technical Skills --> "Security and Compliance"
-    "Security and Compliance" --> Implementation
+    Technical Skills --> Security_and_Compliance
+    Security_and_Compliance --> Implementation
     Implementation --> D[Enterprise AI Mastery]
 
     style D fill:#FFD700
