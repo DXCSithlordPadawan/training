@@ -3,7 +3,7 @@ Artificial Intelligence Training Documentation Prompt
 Goal:
 As an enterprise architect I need to create a complete documentation with details and taining package to create a syllabus for Artificial Intelligence Training for the use of GITHUB Spec Kit, Claude Code (including, prompt creation, creating claude Skill artifacts for use by claude code, sub-tasks, agents and sub-agent usage), M365 Copilot, the definition of guardrails and prevention of AI dreaming or halucination in all mentioned frameworks. 
 The sources sould be responsible and verifiable and can be text based or youtube based such as https://www.youtube.com/@anthropic-ai, https://www.youtube.com/watch?v=61K-2VRaC6s&list=PL4cUxeGkcC9h9RbDpG8ZModUzwy45tLjb, 
-https://www.youtube.com/@NetworkChuck or https://www.youtube.com/@TechWorldwithNana, https://youtube.com/playlist?list=PL4cUxeGkcC9h9RbDpG8ZModUzwy45tLjb&si=q3cXSQKJceAglSwe, https://youtube.com/playlist?list=PL4cUxeGkcC9g4YJeBqChhFJwKQ9TRiivY&si=6nOQlnQgrA5JqPw3. 
+https://www.youtube.com/@NetworkChuck or https://www.youtube.com/@TechWorldwithNana, https://youtube.com/playlist?list=PL4cUxeGkcC9h9RbDpG8ZModUzwy45tLjb&si=q3cXSQKJceAglSwe, https://youtube.com/playlist?list=PL4cUxeGkcC9g4YJeBqChhFJwKQ9TRiivY&si=6nOQlnQgrA5JqPw3 and https://www.youtube.com/@michtortiyt/videos 
 For each resource identified no payment is to be required or registration required.  The syllabus will be full time self study of 37.5 hours per week.
 
 Requirements:
