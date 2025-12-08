@@ -200,7 +200,7 @@ graph TD
 
 ```mermaid
 flowchart LR
-    subgraph Technical Skills
+    subgraph Technical_Skills
         A1[Prompt Engineering]
         A2[Claude Code]
         A3[M365 Copilot]
@@ -218,7 +218,7 @@ flowchart LR
         C3[ROI Measurement]
     end
 
-    Technical Skills --> Security_and_Compliance
+    Technical_Skills --> Security_and_Compliance
     Security_and_Compliance --> Implementation
     Implementation --> D[Enterprise AI Mastery]
 
