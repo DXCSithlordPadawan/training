@@ -56,4 +56,4 @@ Action Steps When Using This Prompt:
 8. Deliver ZIP containing all assets.
 9. Include full server hardening steps and use realistic YAML example values and add detailed Mermaid diagrams
 10. Local directory to use is /media/odin/m2ssd/phoenix/aitrg
-11. Permission is granted to write to local path /media/odin/m2ssd/phoenix/aitrg
+11. Permission is granted to write to local path
