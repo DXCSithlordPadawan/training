@@ -9,8 +9,6 @@ Requirements:
 1. Compliance:
    - UK Gov Secure by Design
    - NCSC Secure Design Principles
-   - CIS Benchmark Level 2
-   - Fips 140-3
 
 2. Deliverables:
    - syllabus.md (detailed list of subjects to be completed with hyperlinks to the nominated resources and timings associated with the subject)
@@ -30,7 +28,7 @@ Requirements:
    - Include PDF and PPTX versions for distribution
 
 Additional Features:
-- Executive Summary and Compliance Checklist in PDF
+- Executive Summary and quiz in PDF
 - README with clickable Table of Contents
 - Embedded diagrams and YAML examples in README
 - PowerPoint for stakeholder presentation
@@ -51,9 +49,8 @@ Action Steps When Using This Prompt:
 3. Create YAML templates with example values.
 4. Bundle all files into ZIP.
 5. Generate README with TOC, diagrams, YAML examples.
-6. Create consolidated PDF with summary and compliance checklist.
+6. Create consolidated PDF with summary and quiz.
 7. Create PowerPoint presentation for stakeholders.
 8. Deliver ZIP containing all assets.
-9. Include full server hardening steps and use realistic YAML example values and add detailed Mermaid diagrams
-10. Local directory to use is localpath
-11. Permission is granted to write to local path
+9. Local directory to use is localpath
+10. Permission is granted to write to local path
