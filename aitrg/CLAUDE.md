@@ -21,8 +21,6 @@ Create a complete self-study training program (37.5 hours/week) with:
 All deliverables must align with:
 - **UK Gov Secure by Design** principles
 - **NCSC Secure Design Principles**
-- **CIS Benchmark Level 2** standards
-- **FIPS 140-3** compliance
 
 ## Required Deliverables
 
