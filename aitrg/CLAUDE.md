@@ -26,7 +26,7 @@ All deliverables must align with:
 
 ## Required Deliverables
 
-The project outputs the following files to `/media/odin/m2ssd/phoenix/aitrg`:
+The project outputs the following files to `/localpath`:
 
 1. **syllabus.md** - Detailed subject list with resource hyperlinks and timings
 2. **resources.md** - Comprehensive list of all resources with URLs
@@ -47,7 +47,7 @@ The project outputs the following files to `/media/odin/m2ssd/phoenix/aitrg`:
 
 ## Working Directory
 
-All file operations should target: `/media/odin/m2ssd/phoenix/aitrg`
+All file operations should target: `localpath`
 
 Permission is granted to write to this directory.
 
