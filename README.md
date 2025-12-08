@@ -184,9 +184,9 @@ graph TD
     B --> C[Advanced Prompting]
     C --> D[Hallucination Prevention]
     D --> E[Claude Code Basics]
-    E --> F[Skills & Agents]
+    E --> F[Skills and Agents]
     F --> G[M365 Copilot]
-    G --> H[Security & Compliance]
+    G --> H[Security and Compliance]
     H --> I[Governance]
     I --> J[Enterprise Implementation]
     J --> K[Capstone Project]
@@ -218,7 +218,7 @@ flowchart LR
         C3[ROI Measurement]
     end
 
-    Technical Skills --> Security & Compliance
+    Technical Skills --> Security and Compliance
     Security & Compliance --> Implementation
     Implementation --> D[Enterprise AI Mastery]
 
